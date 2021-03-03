@@ -71,6 +71,8 @@ namespace Group7_COMP123_Assignment2
             WriteLine($"\nEmployee {secondEmployee.LastName}, {secondEmployee.FirstName}, ID# {secondEmployee.EmployeeUserId}" +
                 $" has total earnings of {earnings:c}");
 
+            //GithubTest
+
 
         }
     }
